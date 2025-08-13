@@ -4,6 +4,16 @@ WATER CRISIS-ANALYSIS-DASHBOARD
 
 This project investigates water availability and source quality across rural and urban provinces, alongside queue patterns, pollution levels, and crime trends. Using Power BI dashboards, it visualizes town- and province-level data, highlighting gender dynamics in water access. The analysis uncovers patterns in water distribution, queue times, and associated security issues. The goal is to uncover patterns and provide insights that can support better planning and water infrastructure decision-making,  improve water accessibility, and reduce related risks.
 
+
+
+
+MAIN DASHBOARD SHOWING IMPROVEMENTS NEEDED AND BUDGET
+
+
+ <img width="993" height="655" alt="Screenshot 2025-08-13 144234" src="https://github.com/user-attachments/assets/aaf4516d-ae66-4921-ae97-c788c7c4b66d" />
+
+
+
 PROBLEM STATEMENT
 
 
@@ -25,8 +35,9 @@ What actionable recommendations can guide better planning and investment in wate
 
 
 
-<img width="993" height="655" alt="Screenshot 2025-08-13 144234" src="https://github.com/user-attachments/assets/aaf4516d-ae66-4921-ae97-c788c7c4b66d" />
+CRIME ANALYSIS DASHBOARD 
 
+<img width="1017" height="563" alt="Screenshot 2025-08-13 163306" src="https://github.com/user-attachments/assets/c9ee77f1-77fa-4f71-bb7b-d84d26ab9067" />
 
 
 
@@ -36,13 +47,7 @@ PROCESSES AND TOOLS USED
 
 . SQL – querying and transforming datasets
 
-. Power BI – data modeling, visualizations, and dashboards
-
-
-
-
-
-
+. Power BI – data modeling, visualizations, and dashboard
 
 
 
@@ -59,10 +64,6 @@ KEY FEATURES / HIGHLIGHTS OF THE DASHBOARD
 . Budget allocation and improvement planning
 
 . Queue time trends by day and hour
-
-
-
-
 
 
 
